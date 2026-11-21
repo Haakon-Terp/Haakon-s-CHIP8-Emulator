@@ -1,0 +1,7 @@
+[package]
+name = "haakons_chip8_emulator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pixelwin = { git = "https://github.com/Haakon-Terp/Haakon-s-Pixel-Engine" }
